@@ -2,7 +2,7 @@
 
 ![logo](./resources/logo.png)
 
-> **Don't be an exchange, be an Inter-blockchain Payment System!**
+> **Boost blockchain economy to the new level by eliminating user fragmentation, enhancing liquidity, and unifying markets across the entire web3!**
 
 * [easypay.network](https://easypay.network) - a web-site/dapp that clearly shows how you can work with EasyPay Network.
 * [github.com/easypay-network](https://github.com/easypay-network) - github project repository, which contains all the developments of this project during **Hackmos 2023**.
@@ -19,16 +19,17 @@
 
 ONE                                 |  TWO                                 | THREE                              |
 :----------------------------------:|:------------------------------------:|:----------------------------------:|
-![](./resources/screenshots/1.png)  |  ![](./resources/screenshots/3.png)  | ![](./resources/screenshots/4.png) |
-![](./resources/screenshots/2.png)  |                                      | ![](./resources/screenshots/5.png) |
+![](./resources/screenshots/1.jpeg)  |  ![](./resources/screenshots/3.jpeg) | ![](./resources/screenshots/4.jpeg) |
+![](./resources/screenshots/2.jpeg)  |                                      | ![](./resources/screenshots/5.jpeg) |
+![](./resources/screenshots/6.jpeg)  |  ![](./resources/screenshots/7.jpeg) | ![](./resources/screenshots/8.jpeg) |
 
 ## Architecture
 
-![logo](./resources/architecture.png)
+![logo](./resources/architecture.jpeg)
 
 ## Database
 
-![logo](./resources/database.png)
+![logo](./resources/database.jpeg)
 
 ## Protocol
 
